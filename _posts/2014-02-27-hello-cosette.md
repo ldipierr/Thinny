@@ -1,90 +1,44 @@
 ---
 layout: post
-title: "Hello, Cosette"
-quote: "Thinny reaches a new version, with mobile support and some other cool features."
+title: "Fashion + Technology"
+quote: 
 image:
-      url: /media/2014-02-27-hello-cosette/cover.jpg
+      url: /media/fashion-technology/cover.png
 video: false
-comments: true
+comments: false
 theme_color: 302F2D
 ---
 
-#Thinny 2.1, codename "[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)"
+Technology is everywhere, there is no denying it. We can find high tech products in almost every area we can think of, and it seems they are here to stay.
 
-Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
+We rely on technology on a daily basis, we use it to check the weather, traffic conditions, to get to places, communicate and so on so forth. There is one thing that hadn’t been upgraded so far: our clothes.
 
-{% include image.html url="/media/2014-02-27-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
+All that could change starting now. A lot of designers are starting to think of the future of fashion and as well as many other areas it seems to be filled with new thing due to the growing technology.
 
-This new version of Thinny comes with mobile support and some bugfixes.
+Digital fabrication is being applied to both the making of clothes and to its usage, meaning we can now see many conceptual outfits using 3D print technology and also laser cuter machines, as well as finding ideas on how to improve wearable items to our daily activities.
 
-## Usage
+# User oriented
 
-### Main variables
+{% include image.html url="/media/fashion-technology/emotionalbackpack.jpg" width="100%" description="Responsive backpack for cyclists." %}
 
-The global variables are set on the `_config.yml`[^1] file.
+{% include image.html url="/media/fashion-technology/jacket.jpg" width="100%" description="Winter jacket featuring lights that turn on when the user stops and turns off as he stars moving." %}
 
-To start, you need to change at least the variable `url` on the file.
+# Laser cutting 
 
-#### Social links
+{% include image.html url="/media/fashion-technology/flexibleprint.jpg" width="100%" description="Laser cut leather bracelet." %}
 
-To add a social link you just need to add the following code inside the variable `social`:
+{% include image.html url="/media/fashion-technology/lasercut.jpg" width="100%" description="Wood and thread harness." %}
 
-~~~
-  - icon:   [the genericon name for the social network]
-    url:    [the url to follow]
-    desc:   [a small description for the link (e.g. "Follow me on twitter")]
-~~~
+# 3D print
 
-#### Menu
+{% include image.html url="/media/fashion-technology/flexibleprint.jpg" width="100%" description="3D printed flexible fabric." %}
 
-To add a menu item you just need to add the following code inside the variable `menu`:
+{% include image.html url="/media/fashion-technology/jumpsuit.jpg" width="100%" description="3D printed dress from Iris van Herpen Spring 2016 colection." %}
 
-~~~
-  - title:  [title of the menu item]
-    url:    [the url to follow]
-~~~
+# Light
 
-#### Others
+{% include image.html url="/media/fashion-technology/metgala.jpg" width="100%" description="Clair Danes using a iluminated dress by Zac Posen." %}
 
-You'll find a lot of other variables inside the file, e.g.:
+{% include image.html url="/media/fashion-technology/jellyfish.jpg" width="100%" description="Conceptual dress using optical fibers." %}
 
-- the site `title`, `description`, `icon` and default `cover` image.
-- text of the `copyright` message.
-- the number of posts per page (`paginate`).
-- the `permalink`'s structure (see [the docs](http://jekyllrb.com/docs/pagination/)).
-
-
-### Default YAML tags
-
-- `layout:`<i>`post, page`</i> `or `<i>`fullscreen`</i>: defines the layout of the page.
-- `title: [string]`: title of the post.
-- `quote: [string]`: a small description of the post to be shown above the title.
-- `dark:`<i>`true`</i> `or `<i>`false`</i>: use black font (instead of white) for the header (default value is false).
-- `image: [url] or `<i>`false`</i>: a cover image for the post (default value is _false_).
-- `video:`<i>`true`</i> `or `<i>`false`</i>: add a cover video for the post (default value is _false_).
-- `video_mp4: [url]`: the URL for the mp4 video.
-- `video_webm: [url]`: the URL for the webm video.
-- `video_ogv: [url]`: the URL for the ogv video.
-
-## Versions
-
-Here is a table with all Thinny's versions:
-
-|----
-| Version | Codename | Platform | Release date
-|:-:|:-:|:-:|:-:
-| [0.3](https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra) | [Alexandra](http://nikita2010.wikia.com/wiki/Alexandra_Udinov) | Ghost 0.3.x |November 2013
-| [2.0](https://github.com/camporez/Thinny/releases/tag/v2.0-bianca) | [Bianca](http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm) | Jekyll | January 2014 |
-| [2.1](https://github.com/camporez/Thinny/releases/tag/v2.1-cosette) | [Cosette](http://lesmiserables.wikia.com/wiki/Cosette) | Jekyll | February 2014
-| 2.2 | [Dolores](http://en.wikipedia.org/wiki/Dolores_Haze) | Jekyll | _Soon..._[^2]
-|----
-
-## Download
-
-> Thinny 2.1 is already [available for download on GitHub](https://github.com/camporez/Thinny/releases).
-
------
-Want to see something else added or report a bug? [Open an issue](https://github.com/camporez/camporez.github.io/issues/new).
-
-[^1]: This file is placed in your root directory. It's the main file of configuration. For more information, read [the docs](http://jekyllrb.com/docs/configuration/).
-[^2]: See the [issues list](https://github.com/camporez/camporez.github.io/issues?milestone=3).
+{% include image.html url="/media/fashion-technology/ProjectionMapping.png" width="100%" description="With the use of projection mapping any image can be seen in 3D elements such as the sneaker above." %}
