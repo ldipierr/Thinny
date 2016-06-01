@@ -25,7 +25,7 @@ Digital fabrication is being applied to both the making of clothes and to its us
 
 # Laser cutting 
 
-{% include image.html url="/media/fashion-technology/flexibleprint.jpg" width="100%" description="Laser cut leather bracelet." %}
+{% include image.html url="/media/fashion-technology/MinasTrend.jpg" width="100%" description="Laser cut leather bracelet." %}
 
 {% include image.html url="/media/fashion-technology/lasercut.jpg" width="100%" description="Wood and thread harness." %}
 
