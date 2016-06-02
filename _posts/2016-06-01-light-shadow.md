@@ -9,7 +9,7 @@ comments: false
 theme_color: 302F2D
 ---
 
-{% include image.html url="/media/light-shadow/stringio.png" width="100%" description="" %}
+{% include image.html url="/media/light-shadow/stringio2.png" width="100%" description="" %}
 
 {% include image.html url="/media/light-shadow/wall.jpg" width="100%" description="" %}
 
