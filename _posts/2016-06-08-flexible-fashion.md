@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Flexible Structures in Fashion"
+
+image:
+      url: /media/2016-06-08-post-4/image_cover.jpg
+video: false
+comments: false
+theme_color: 302F2D
+---
+
 {% include image.html url="/media/2016-06-08-post-4/image_1.jpg" width="100%" description="" %}
 {% include image.html url="/media/2016-06-08-post-4/image_2.jpg" width="100%" description="" %}
 {% include image.html url="/media/2016-06-08-post-4/image_3.jpg" width="100%" description="" %}
