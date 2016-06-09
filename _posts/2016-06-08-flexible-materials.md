@@ -33,7 +33,6 @@ Through digital fabrication it is possible to attribute new qualities to a mater
 
 # Flexible Material
 
-{% include image.html url="/media/2016-06-08-post-4/image_6.jpg" width="100%" description="" %}
 {% include image.html url="/media/2016-06-08-post-4/image_16.jpg" width="100%" description="" %}
 {% include image.html url="/media/2016-06-08-post-4/image_17.jpg" width="100%" description="" %}
 
