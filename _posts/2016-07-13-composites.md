@@ -23,7 +23,7 @@ theme_color: 302F2D
 {% include image.html url="/media/photos/composites/12.jpg" width="100%" description="" %}
 {% include image.html url="/media/photos/composites/13.jpg" width="100%" description="" %}
 {% include image.html url="/media/photos/composites/14.JPG" width="100%" description="" %}
-{% include image.html url="/media/photos/composites/15.jpg" width="100%" description="" %}
+{% include image.html url="/media/photos/composites/15.JPG" width="100%" description="" %}
 {% include image.html url="/media/photos/composites/16.jpg" width="100%" description="" %}
 {% include image.html url="/media/photos/composites/17.jpg" width="100%" description="" %}
 {% include image.html url="/media/photos/composites/18.jpg" width="100%" description="" %}
@@ -33,8 +33,8 @@ theme_color: 302F2D
 {% include image.html url="/media/photos/composites/22.jpg" width="100%" description="" %}
 {% include image.html url="/media/photos/composites/23.jpg" width="100%" description="" %}
 {% include image.html url="/media/photos/composites/24.jpg" width="100%" description="" %}
-{% include image.html url="/media/photos/composites/25.jpg" width="100%" description="" %}
-{% include image.html url="/media/photos/composites/26.jpg" width="100%" description="" %}
-{% include image.html url="/media/photos/composites/27.jpg" width="100%" description="" %}
-{% include image.html url="/media/photos/composites/28.jpg" width="100%" description="" %}
+{% include image.html url="/media/photos/composites/25.JPG" width="100%" description="" %}
+{% include image.html url="/media/photos/composites/26.JPG" width="100%" description="" %}
+{% include image.html url="/media/photos/composites/27.JPG" width="100%" description="" %}
+{% include image.html url="/media/photos/composites/28.JPG" width="100%" description="" %}
 
