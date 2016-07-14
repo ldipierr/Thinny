@@ -3,7 +3,7 @@ layout: post
 title: "Flexible Structures - cardboard"
 
 image:
-      url: /media/2016-06-08-post-6/image_cover.jpg
+      url: /assets/images/cover_2.jpg
 video: false
 comments: false
 theme_color: 302F2D
