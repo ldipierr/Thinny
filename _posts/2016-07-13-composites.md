@@ -16,7 +16,7 @@ theme_color: 302F2D
 {% include image.html url="/media/photos/composites/5.jpg" width="100%" description="" %}
 {% include image.html url="/media/photos/composites/6.jpg" width="100%" description="" %}
 {% include image.html url="/media/photos/composites/7.jpg" width="100%" description="" %}
-{% include image.html url="/media/photos/composites/8.jpg" width="100%" description="" %}
+{% include image.html url="/media/photos/composites/8.JPG" width="100%" description="" %}
 {% include image.html url="/media/photos/composites/9.jpg" width="100%" description="" %}
 {% include image.html url="/media/photos/composites/10.jpg" width="100%" description="" %}
 {% include image.html url="/media/photos/composites/11.jpg" width="100%" description="" %}
